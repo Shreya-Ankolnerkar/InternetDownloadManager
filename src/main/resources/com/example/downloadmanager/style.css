@@ -1,0 +1,34 @@
+.root{
+-fx-background-color: #363636;
+
+}
+
+.title-bar{
+-fx-background-color: #363636;
+}
+
+.TextField{
+-fx-background-color:#4a4a4a;
+-fx-text-fill:white;
+-fx-prompt-text-fill: #d3d6db;
+-fx-border-color:#178582;
+
+}
+
+.Button{
+-fx-color:#4a4a4a;
+-fx-text-fill:#d3d6db;
+-fx-border-color:#178582;
+
+}
+.TableView{
+-fx-background-color: #363636;
+-fx-border: 20px;
+-fx-text-fill:#178582;
+-fx-border-color:#178582;
+
+}
+.TableView.TableColumn-header{
+-fx-background-color:#363636;
+}
+
